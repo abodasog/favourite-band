@@ -1,0 +1,25 @@
+.sidebar {
+    width: 30%;
+    float: right;
+    background-color: yellow;
+  }
+
+
+  img{
+    float: left;
+  }
+
+  body{
+    background-color: khaki;
+
+  }
+
+
+
+  h1{
+    font-size: 80px;
+    height: 30px;
+    color: blueviolet;
+    font-stretch: wider;
+
+  }
