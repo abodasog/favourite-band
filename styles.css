@@ -2,24 +2,27 @@
     width: 30%;
     float: right;
     background-color: yellow;
+    font-size: 20px;
   }
 
 
   img{
     float: left;
+    inline-size: 650px;
+    margin: 1%;
   }
 
   body{
-    background-color: khaki;
+    background-color: #ba1e03;
 
   }
 
 
 
   h1{
-    font-size: 80px;
-    height: 30px;
-    color: blueviolet;
-    font-stretch: wider;
+    font-size: 100px;
+    color: hsl(115, 92%, 44%);
+    position: relative;
+    text-align: center;
 
   }
