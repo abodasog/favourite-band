@@ -13,7 +13,7 @@
   }
 
   body{
-    background-color: hsl(7, 33%, 95%);
+    background-color: turquoise;
 
   }
 
@@ -21,7 +21,7 @@
 
   h1{
     font-size: 100px;
-    color: hsl(115, 92%, 44%);
+    color: hwb(0 2% 47%);
     position: relative;
     text-align: center;
 
@@ -31,4 +31,11 @@
 
   h2{
     color: crimson;
+    font-size: 50px;
+  }
+
+
+  p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000000;
   }
