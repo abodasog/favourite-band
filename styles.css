@@ -1,7 +1,7 @@
 .sidebar {
     width: 30%;
     float: right;
-    background-color: yellow;
+    background-color: #dc178d;
     font-size: 20px;
   }
 
@@ -13,7 +13,7 @@
   }
 
   body{
-    background-color: #ba1e03;
+    background-color: hsl(7, 33%, 95%);
 
   }
 
@@ -25,4 +25,10 @@
     position: relative;
     text-align: center;
 
+  }
+
+
+
+  h2{
+    color: crimson;
   }
